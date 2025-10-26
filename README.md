@@ -4,7 +4,7 @@ Check out my landing page:
 
 CLICK THIS LINK 🔗 ➤➤➤➤ [![View Landing Page](https://img.shields.io/badge/View-Projects-blue)](https://maiyarasu-s.github.io/Webpage-recreation/)
 ---
-[![Landing Page Screenshot](Screenshot-3.png)]
+[Landing Page Screenshot](Screenshot-3.png)
 ## 🚀 Features
 
 - 📥 **Add Transactions** – Quickly record income or expenses with description, amount, and date.  

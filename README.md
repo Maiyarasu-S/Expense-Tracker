@@ -4,13 +4,13 @@ Check out my landing page:
 
 CLICK THIS LINK 🔗 ➤➤➤➤ [![View Landing Page](https://img.shields.io/badge/View-Projects-blue)](https://maiyarasu-s.github.io/Webpage-recreation/)
 ---
-
+[![Landing Page Screenshot](Screenshot-3.png)]
 ## 🚀 Features
 
 - 📥 **Add Transactions** – Quickly record income or expenses with description, amount, and date.  
 - 📊 **Auto-Updated Summary** – Instantly see your total income, expenses, and remaining balance.  
 - 🔍 **Filter by Type** – View only income or expense transactions as needed.  
-- 💾 **Local Storage Support** *(if you’ve added it)* – Keeps your data even after refreshing the page.  
+- 💾 **Local Storage Support**  – Keeps your data even after refreshing the page.  
 - 🎨 **Clean, Modern UI** – Simple design with subtle shadows and responsive layout.  
 - ❤️ **Personal Touch** – Floating tag at the bottom: “Made with ❤️ [Maiyarasu S](https://github.com/MaiyarasuS)”.
 
@@ -21,8 +21,4 @@ CLICK THIS LINK 🔗 ➤➤➤➤ [![View Landing Page](https://img.shields.io/b
 - **HTML5** – Structure  
 - **CSS3** – Styling and layout  
 - **JavaScript (Vanilla)** – Logic and interactivity  
-
----
-
-## 🖼️ Screenshots
 

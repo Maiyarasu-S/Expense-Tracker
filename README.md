@@ -1,6 +1,8 @@
 # Expense-Tracker
 A simple and responsive Expense Tracker web app to record, categorize, and manage your daily income and expenses with balance insights.
+Check out my landing page:  
 
+CLICK THIS LINK 🔗 ➤➤➤➤ [![View Landing Page](https://img.shields.io/badge/View-Projects-blue)](https://maiyarasu-s.github.io/Webpage-recreation/)
 ---
 
 ## 🚀 Features
